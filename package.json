@@ -1,0 +1,14 @@
+{
+  "name": "teeny-tiny-compiler",
+  "version": "1.0.0",
+  "description": "A small copiler that converts lisp syntax into C style sytax.",
+  "main": "src/compiler.js",
+  "scripts": {
+    "test": "jest --watch-all"
+  },
+  "author": "Sanjeev Yadav",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^24.8.0"
+  }
+}
